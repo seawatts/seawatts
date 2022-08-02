@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm [@seawatts](https://twitter.com/seawatts), Co-Founder and CTO at [Shuffl](https://shuffl.ai)
+I'm [@seawatts](https://twitter.com/seawatts), Founder and CTO at [Shuffl](https://shuffl.ai)
 
-- 🔭 My personal site: https://seawatts.dev
 - 🧑‍💻 Here are some of my [ideas](https://github.com/seawatts/ideas)
 - 👯 I’m looking to collaborate on anything Crypto 
 - 💬 Ask me about Sailing
