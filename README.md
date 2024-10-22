@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-I'm [@seawatts](https://twitter.com/seawatts), Founder and CTO at [Shuffl](https://shuffl.ai)
+I'm [Chris Watts](https://linkedin.com/in/seawatts), Founder & CEO of [CoFounder AI](https://co-founder.ai) and Founder & CTO of [Shuffl](https://shuffl.ai)
 
-- 🧑‍💻 Here are some of my [ideas](https://github.com/seawatts/ideas)
-- 👯 I’m looking to collaborate on anything Crypto 
-- 💬 Ask me about Sailing
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: My dogs name is Bisou 🇫🇷
+[Let's connect](https://intro.co/ChrisWatts)
+
 - 📦 Ex-Amazon building drones 🤖 ✈️
+- 🤖 Ex-Madrona Venture Labs - Technical Advisor
+- 🧑‍💻 Here are some of my [ideas](https://github.com/seawatts/ideas)
+- 👯 I’m looking to collaborate on projects related to startups and AI
+- 💬 Ask me about Sailing or Treasure Hunting
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: My dog's name is Bisou 🇫🇷
 
 <details>
   <summary>A list of tech that I enjoy working with.</summary>
@@ -15,6 +18,7 @@ I'm [@seawatts](https://twitter.com/seawatts), Founder and CTO at [Shuffl](https
   ### Backend
 - AWS
   - Lambda - Node.js Typescript (Serverless Event processing / GraphQL resolvers)
+  - RDS (PostgreSQL)
   - DynamoDB (Data storage)
   - AppSync (GraphQL API)
   - IoT Core / Greengrass
@@ -31,11 +35,13 @@ I'm [@seawatts](https://twitter.com/seawatts), Founder and CTO at [Shuffl](https
 ### Front end tech
 - Next.js
 - React / React Native - Typescript
-- Netlify (Website hosting)
+- Vercel (Website hosting)
+- TRPC
 - GraphQL (API)
   - Apollo Client
   - GraphQL Subscriptions
 - Tailwind CSS
+- Shadcn
 - Testing
   - Storybook (UI Design Testing)
   - Playwright (Integration Testing)
